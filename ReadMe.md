@@ -8,16 +8,16 @@ A novel task named  <i> <b>Vi</b>deo <b>Te</b>xt <b>V</b>isual <b>Q</b>uestion <
 
 The first ViteVQA benchmark dataset, which is named <i> <b>M</b>ulti-category <b>M</b>ulti-frame <b>M</b>ulti-resolution <b>M</b>ulti-modal </i> benchmark for ViteVQA (<b>M4-ViteVQA</b> in short).
 
-<img src="Imgs/Fig-Intro.png" width="100%" class="aligncenter">
+<img src="https://github.com/bytedance/VTVQA/blob/master/Imgs/Fig-Intro.png" width="100%" class="aligncenter">
 <small> Some examples from our M4-ViteVQA dataset. ‘A’ indicates the answers returned by TextVQA models and wrong answers are colored in red. Leveraging temporal, textual, and visual information in the video
 is the only way to correctly answer the question.</small>
 
-Major features for ViteVQA:
+**Major features for ViteVQA:**
 -  **Challenging**: It must jointly exploit both textual and visual information as well as temporal logic among video frames or events.
 -  **General**: As an extension to the TextVQA task, it is more general and has wider applications since it can answer temporal-related questions as well as handle video streams.
 
 
-Major features for M4-ViteVQA:
+**Major features for M4-ViteVQA:**
 -  **Multi-category**: M4-ViteVQA consists of 7,620 video clips of nine categories (i.e., <i>shopping</i>, <i>traveling</i>, <i>driving</i>, <i>vlog</i>, <i>sport</i>, <i>advertisement</i>, <i>movie</i>, <i>game</i> and <i>talking</i>).
 -  **Multi-resolution**: M4-ViteVQA has three kinds of resolutions (i.e., 720p, 1080p and 1176X664)
 -  **Dataset size**: 7,620 video clips; 25,123 question-answer pairs; 1,317,392 frames; 500GB storage cost
