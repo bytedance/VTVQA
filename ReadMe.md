@@ -32,7 +32,7 @@ In Task1, the model is trained and tested on all the nine categories of M4-ViteV
 
 In <b>Task2</b>, the model is trained with seven categories while tested on the remaining two categories. Task2 requires the model to deal with unlearned content and completely different category-specific questions, which is very challenging. It is worth mentioning that for Task2, we provide an extra set, which can be used in different ways (e.g. semi-supervised learning, weakly supervised learning etc.) to improve the adaption ability of the model.
 
-Two metrics are used in this benchmark to evaluate model performance. The first is <b>accuracy</b> used in existing TextVQA benchmarks. The second is the <b>normalized Levenshtein similarity</b> (ANLS).
+Two metrics are used in this benchmark to evaluate model performance. The first is <b>accuracy</b> used in existing TextVQA benchmarks. The second is the <b>average normalized Levenshtein similarity</b> (ANLS).
 
 <h3>Download Links and Accessibility</h3>
 
