@@ -44,7 +44,7 @@ The download links of annotations are given as follows (v0.0.2):
 
 [Task2Train](Annotations/ViteVQA_0.0.2_t2train.json) | [Task2Dev](Annotations/ViteVQA_0.0.2_t2val.json) | [Task2Test](Annotations/ViteVQA_0.0.2_t2test.json) | [Task2Extra](Annotations/ViteVQA_0.0.2_t2extra.json)
 
-Following features are provided for :
+Following features are provided:
 
 - Raw videos and frames
 - OCR tokens and FRCN features (Extracted by [TransVTSpotter](https://github.com/weijiawu/TransVTSpotter), [ABINet](https://github.com/FangShancheng/ABINet) and [Faster R-CNN](https://github.com/facebookresearch/maskrcnn-benchmark), respectively)
