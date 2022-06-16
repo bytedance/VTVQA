@@ -40,9 +40,9 @@ The download links of annotations are given as follows (v0.0.2):
 
 [Task1Split1Train](Annotations/ViteVQA_0.0.2_t1s1train.json) | [Task1Split1Val](Annotations/ViteVQA_0.0.2_t1s1val.json) | [Task1Split1Test](Annotations/ViteVQA_0.0.2_t1s1test.json)
 
-[Task1Split2Train](Annotations/ViteVQA_0.0.2_t1s2train.json) | [Task1Split2Val](Annotations/ViteVQA_0.0.2_t1s2val.json) | [Task1Split12est](Annotations/ViteVQA_0.0.2_t1s1test.json)
+[Task1Split2Train](Annotations/ViteVQA_0.0.2_t1s2train.json) | [Task1Split2Val](Annotations/ViteVQA_0.0.2_t1s2val.json) | [Task1Split2Test](Annotations/ViteVQA_0.0.2_t1s1test.json)
 
-[Task2Train](Annotations/ViteVQA_0.0.2_t2train.json) | [Task2Dev](Annotations/ViteVQA_0.0.2_t2val.json) | [Task2Test](Annotations/ViteVQA_0.0.2_t2test.json) | [Task2Extra](Annotations/ViteVQA_0.0.2_t2extra.json)
+[Task2Train](Annotations/ViteVQA_0.0.2_t2train.json) | [Task2Val](Annotations/ViteVQA_0.0.2_t2val.json) | [Task2Test](Annotations/ViteVQA_0.0.2_t2test.json) | [Task2Extra](Annotations/ViteVQA_0.0.2_t2extra.json)
 
 Following features are provided:
 
