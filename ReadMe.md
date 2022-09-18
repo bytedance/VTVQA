@@ -1,7 +1,7 @@
 <big>ViteVQA</big>
 --------------------------------------------------------------------------------
 
-Towards Video Text Visual Question Answering: Benchmark and Baseline [[PDF](https://github.com/bytedance/VTVQA/blob/master/ViteVQA_preprint.pdf)]
+Towards Video Text Visual Question Answering: Benchmark and Baseline [[PDF](https://github.com/bytedance/VTVQA/blob/master/ViteVQA_preprint.pdf)] Accepted by NeurIPS 2022.
 <h3>Describition</h3>
 
 A novel task named  <i> <b>Vi</b>deo <b>Te</b>xt <b>V</b>isual <b>Q</b>uestion <b>A</b>nswering </i>  (<b>ViteVQA</b> in short), which aims at answering questions by jointly reasoning textual and visual information in a given video.
