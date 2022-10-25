@@ -53,7 +53,7 @@ Following features are provided:
 
 Instructions:
 -  M4-ViteVQA can only be used for **non-commercial research purposes only**
--  Researchers should read the [responsibility agreement](NA) carefully, ask their supervisor/advisor to sign the agreement appropriately, and then send the scanned version  to zhaomy20@fudan.edu.cn or bjli20@fudan.edu.cn.
+-  Researchers should read the [responsibility agreement](https://github.com/bytedance/VTVQA/blob/master/M4-ViteVQA_Agreement.pdf) carefully, ask their supervisor/advisor to sign the agreement appropriately, and then send the scanned version  to zhaomy20@fudan.edu.cn or bjli20@fudan.edu.cn.
 -  After verifying your request, we will provide the dataset download link.
 
 <h3>Baseline</h3>
