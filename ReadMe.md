@@ -75,9 +75,6 @@ Authors:
 Minyi Zhao, Bingjia Li, Jie Wang, Wanqing Li, Wenjing Zhou, Lan Zhang
 Shijie Xuyang, Zhihang Yu, Xinkun Yu, Guangze Li, Aobotao Dai, Shuigeng Zhou
 
-Labeling Team:
-
-Siew Chin Low, Hailey Kwong, Muhammad Nazhan Naqib Bin Mohd Akib, Szvetlana Melnicsenko, Maria Elena Romo Espinoza, Marta Ramos Baonza, Fernando Pereira, Henrique Revez, Maria Pilar Iglesias Pedreira, Za-K, Weng Kin Law, Selvaraj A/L Alurasamy
 <h3>Contact Us</h3>
 Feel free to contact us if you have any problems! zhaomy20@fudan.edu.cn or bjli20@fudan.edu.cn
 
