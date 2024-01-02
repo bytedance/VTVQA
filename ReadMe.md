@@ -80,6 +80,17 @@ Feel free to contact us if you have any problems! zhaomy20@fudan.edu.cn or bjli2
 
 <h3>Citation</h3>
 
+```bash
+@article{zhao2022towards,
+  title={Towards video text visual question answering: benchmark and baseline},
+  author={Zhao, Minyi and Li, Bingjia and Wang, Jie and Li, Wanqing and Zhou, Wenjing and Zhang, Lan and Xuyang, Shijie and Yu, Zhihang and Yu, Xinkun and Li, Guangze and others},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={35549--35562},
+  year={2022}
+}
+```
+
 <h3>License</h3>
 
 - The researcher shall use the M4-ViteVQA dataset only for non-commercial algorithm research and educational purposes. The researcher can not use the M4-ViteVQA dataset for any other purposes, including but not limited to distribution, commercial usage, etc...
